@@ -1,0 +1,16 @@
+.titulo{
+    background-color: blue;
+    color: #fff;
+    width: 80%;
+    border-radius: 0.2rem;
+    padding: 0.5rem;
+}
+.camara{
+    float: left;
+    padding-left: 4rem;
+}
+
+.camara2{
+    float: right;
+    padding-right: 4rem;
+}
